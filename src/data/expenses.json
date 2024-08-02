@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Belanja Bulanan",
+    "nominal": 500000,
+    "category": "Makanan",
+    "date": "2024-06-26"
+  },
+  {
+    "id": 2,
+    "name": "Tagihan Listrik",
+    "nominal": 235000,
+    "category": "Utility",
+    "date": "2024-06-27"
+  },
+  {
+    "id": 3,
+    "name": "Member Gym",
+    "nominal": 175000,
+    "category": "Kesehatan",
+    "date": "2024-06-28"
+  },
+  {
+    "id": 4,
+    "name": "Internet Bulanan",
+    "nominal": 350000,
+    "category": "Utility",
+    "date": "2024-06-29"
+  },
+  {
+    "id": 5,
+    "name": "Check-up Umum",
+    "nominal": 90000,
+    "category": "Kesehatan",
+    "date": "2024-06-30"
+  }
+]
